@@ -1,0 +1,26 @@
+[
+  {
+    "title": " Weather App Using React",
+    "imageSrc": "projects/project.png",
+    "description": " This application integrates with the OpenWeather API to fetch real-time weather data based on the user’s input.",
+    "skills": ["React", "TailwindCSS", "Javascript"],
+    "demo": "https://ritika-weatherapp.netlify.app",
+    "source": "https://github.com/sahritika07/Weather-App-UsingReact"
+  },
+  {
+    "title": "Gemini Ai",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a clone of Gemini AI, a modern AI chatbot which manages and updates chat interactions in real-time.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://ritika-gemini-ai.netlify.app",
+    "source": "https://github.com/sahritika07/Gemini-Ai"
+  },
+  {
+    "title": "RedStore-Ecommerce site",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a fully functional and responsive e-commerce site, that provides seamless shopping experience.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://ritika-redstore-ecommerce-website.netlify.app",
+    "source": "https://github.com/sahritika07/RedStore-E-Commerce-Website"
+  }
+]

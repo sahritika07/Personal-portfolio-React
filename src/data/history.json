@@ -1,0 +1,17 @@
+[
+  {
+    "role": "Frontend Developer",
+    "experiences": [" I have knowledge of frontend with experience in building responsive and optimized sites"],
+    "imageSrc": "history/cursorIcon.png"
+  },
+  {
+    "role": "Backend Developer",
+    "experiences": ["I have knowledge of developing fast and optimised back-end systems and APIs"],
+    "imageSrc": "history/serverIcon.png"
+  },
+  {
+    "role": "UI/UX Designer",
+    "experiences": ["With a focus on user-centered design, I craft intuitive and engaging UI. My designs aim to provide an optimal user experience."],
+    "imageSrc": "history/cursorIcon.png"
+  }
+]
